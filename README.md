@@ -1,23 +1,45 @@
-## Bem-vindo(a) ao perfil do NoxHG! ##
+<div align="center">
+  <h1>👋 Olá, eu sou o Luiz Heytor! ✨</h1>
+  
+  <p><strong>Estudante De Programação!</strong></p>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
- <div>
-   <a href="https://github.com/NoxHG">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoxHG&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxHG&layout=compact&langs_count=6&theme=radical"/>
+---
+
+### 🌱 Sobre mim
+
+Meu nome é **Luiz Heytor do Nascimento** e estou atualmente estudando no IFRN!
+
+Atualmente estou focado em:
+- **Python** 🐍
+- **Desenvolvimento Web** com HTML, CSS e JavaScript ⚡
+
+### 🚀 O que estou estudando agora
+
+- Aprofundando conceitos de Python (POO, manipulação de dados e automação)
+- Construindo projetos responsivos com HTML + CSS
+- JavaScript para tornar as páginas interativas e dinâmicas
+
+### 📫 Vamos conversar?
+
+- **GitHub:** [NoxHG](https://github.com/NoxHG)
+- **Discord:** okita_one
+- **Email:** xii1kingwp@gmail.com
+
+---
+
+<div align="center">
+  <strong>"Transformando café em código e ideias em realidade ✨"</strong>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+
 <br>
- 
-### Para Trabalho me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/noox_.ytboy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/noxhgg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "hgamerh806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" target = _blank></a>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Always%20learning-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20with%20♥%20and%20Python-FF69B4?style=flat-square" />
 </div>
