@@ -22,9 +22,9 @@
 Meu nome é **Luiz Heytor do Nascimento** e estou atualmente estudando no IFRN!
 
 Atualmente estou focado em:
-- **Desenvolvimento de Sistemas, Programas e Jogos** com ***C***! <3
+- **Desenvolvimento de Sistemas, Programas e Jogos** com ***C***  ***C#***! <3
 - **Python** 🐍
-- **Desenvolvimento Web** com HTML e CSS ⚡
+- **Desenvolvimento Web** com HTML, CSS e JS! ⚡
 
 ### 🚀 O que estou estudando agora
 
@@ -36,7 +36,7 @@ Atualmente estou focado em:
 ### 📫 Vamos conversar?
 
 - **GitHub:** [NoxHG](https://github.com/NoxHG)
-- **Discord:** okita_one
+- **Discord:** StellaronOkita
 - **Email:** xii1kingwp@gmail.com
 
 ---
