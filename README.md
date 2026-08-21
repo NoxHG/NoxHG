@@ -9,9 +9,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  ---
+  
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+
+  --- 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
@@ -36,7 +41,7 @@ Atualmente estou focado em:
 ### 📫 Vamos conversar?
 
 - **GitHub:** [NoxHG](https://github.com/NoxHG)
-- **Discord:** StellaronOkita
+- **Discord:** okita_one
 - **Email:** xii1kingwp@gmail.com
 
 ---
